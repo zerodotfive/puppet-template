@@ -1,0 +1,10 @@
+forge 'https://forgeapi.puppetlabs.com'
+
+mod 'puppetlabs-stdlib'
+mod 'puppetlabs-apt'
+mod 'puppetlabs-vcsrepo'
+mod 'puppetlabs-ntp'
+mod 'saz-timezone'
+mod 'duritong/sysctl'
+mod 'csail/shell_config'
+mod 'maestrodev/wget'

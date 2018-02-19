@@ -1,0 +1,8 @@
+.DS_Store
+.tmp/
+.idea/
+.librarian/
+.vagrant/
+modules/
+# uncomment after initial commit
+#Vagrantfile
